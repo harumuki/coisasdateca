@@ -1,15 +1,14 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
+  "store_id": 1125,
+  "name": "coisasdateca",
+  "domain": "coisasdateca.netlify.app",
+  "short_name": "coisasdateca",
+  "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
+  "primary_color": "#9a6a40",
+  "secondary_color": "#757575",
   "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "_"
   },
   "logo": "/img/uploads/logo.png",
   "mini_logo": "",
