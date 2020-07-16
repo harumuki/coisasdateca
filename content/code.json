@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__countdown {\n    background-image: linear-gradient(rgba(255, 232, 252, 0.5),rgba(255, 191, 247, 0.7)),url(https://res.cloudinary.com/ecomplus/image/upload/v1593054601/sw.png);\n    font-weight: var(--font-bold);\n    height: 60px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}",
+  "css": "main .top-bar a.top-bar__countdown{\n    background-image: linear-gradient(rgba(255, 232, 252, 0.5),rgba(255, 191, 247, 0.7)),url(https://res.cloudinary.com/ecomplus/image/upload/v1593054601/sw.png);\n    font-weight: var(--font-bold);\n    height: 60px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}",
   "html_head": "",
   "html_body": ""
 }
