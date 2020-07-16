@@ -2,7 +2,7 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "link": "/Promoções | Frete "
+    "link": "/pages/promocoes-frete"
   },
   "installments": {
     "show": true,
@@ -15,6 +15,6 @@
   "promo": {
     "show": true,
     "text": "Confira as Ofertas Especiais ",
-    "link": "/Promoções | Frete "
+    "link": "/pages/promocoes-frete"
   }
 }
