@@ -7,11 +7,11 @@
     "pages": [
       {
         "title": "Frete com Condições Especiais - Confira ! ",
-        "link": "/pages/sobre-nos"
+        "link": "/pages/promocoes-frete"
       },
       {
         "title": "Rastreie seu pedido ",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "link": "https://rastreamentocorreiosbr.com.br/"
       }
     ],
     "phone_wpp": true,
