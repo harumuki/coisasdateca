@@ -1,22 +1,23 @@
 {
-  "store_id": 1125,
-  "name": "coisasdateca",
   "domain": "coisasdateca.netlify.app",
-  "short_name": "coisasdateca",
-  "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
-  "primary_color": "#9a6a40",
-  "secondary_color": "#757575",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#d3a1cc",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "niche-baby"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-coisas-da-teca.png",
+  "name": "coisasdateca",
+  "short_name": "coisasdateca",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon-coisas-da-teca.png",
+  "country_code": "BR",
+  "secondary_color": "#69c8e8",
+  "icon": "/img/uploads/favicon-coisas-da-teca.png",
+  "store_id": 1125,
+  "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
+  "large_icon": "/img/uploads/favicon-coisas-da-teca.png"
 }
