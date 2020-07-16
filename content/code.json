@@ -1,5 +1,5 @@
 {
-  "css": "\nbody{font-family:'Quicksand',sans-serif; font-size:16px; color:#352727;}\n.top-bar a.top-bar__countdown {\n    background:#a78ea4;\n    color: var(--primary-yiq);font-family:'Quicksand',sans-serif;\n}",
+  "css": "\nbody{font-family:'Quicksand',sans-serif; font-size:16px; color:#352727;}\n.top-bar a.top-bar__countdown {\n    background:#a78ea4;\n    color: var(--primary-yiq);font-family:'Quicksand',sans-serif;font-size:20px;\n}",
   "html_head": "",
   "html_body": ""
 }
