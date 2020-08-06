@@ -1,7 +1,7 @@
 {
   "domain": "coisasdateca.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#463e45",
+  "primary_color": "#a4609b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
