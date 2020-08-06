@@ -31,6 +31,12 @@
       "collection_id": null,
       "sort": "news",
       "title": "Confira os Lançamentos "
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "title": "Os Queridinhos ",
+      "sort": "sales"
     }
   ]
 }
