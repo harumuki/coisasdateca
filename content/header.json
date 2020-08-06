@@ -19,12 +19,7 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/kit-tecidos?Kit Tecidos",
-      "/busque-por-temas?Busque por Temas",
-      "/tecidos?Tecidos",
-      "/armarinho?Armarinho"
-    ],
+    "featured": [],
     "random": 4,
     "full_width": true
   },
