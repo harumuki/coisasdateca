@@ -12,6 +12,12 @@
           "img": "/img/uploads/tecidos-coisas-da-teca.jpg",
           "mobile_img": "/img/uploads/tecidos-coisas-da-teca.jpg",
           "link": "https://coisasdateca.netlify.app/tecidos"
+        },
+        {
+          "start": "2020-08-11T13:20:30.558Z",
+          "end": "2020-08-11T13:20:30.622Z",
+          "img": "/img/uploads/armarinho1.jpg",
+          "link": "https://coisasdateca.netlify.app/armarinho"
         }
       ]
     },
