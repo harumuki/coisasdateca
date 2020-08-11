@@ -5,7 +5,13 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": []
+      "slides": [
+        {
+          "start": "2020-08-11T12:35:58.661Z",
+          "end": "2020-08-11T12:35:58.695Z",
+          "img": "/img/uploads/tecidos-coisas-da-teca.jpg"
+        }
+      ]
     },
     {
       "type": "info-bar",
