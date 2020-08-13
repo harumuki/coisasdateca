@@ -64,7 +64,7 @@ if (header.categories_list) {
           <nav class="top-bar__page-links">
             <% if (header.contacts_stripe.pages) { %>
               <% header.contacts_stripe.pages.forEach(({ link, title }) => { %>
-                <a href="<%= link %>"><%= title %></a>
+                <a href="<%= link %>"><%= title % target="_blank"></a>
               <% }) %>
             <% } %>
           </nav>
