@@ -37,6 +37,10 @@
       "shuffle": true,
       "title": "Os Queridinhos ",
       "sort": "sales"
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
