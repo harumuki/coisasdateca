@@ -17,7 +17,7 @@ const networksWithColors = [
 <footer class="footer py-3 py-lg-4 py-xl-5">
   <div class="container">
     <div class="row">
-      <div class="col-12 col-lg-auto order-lg-last">
+      <div class="col-12 col-lg-auto order-lg-last" id="contato">
         <div class="footer__contacts">
           <% if (footer.contacts.title) { %>
             <div class="footer__title">
@@ -94,7 +94,7 @@ const networksWithColors = [
         </div>
       </div>
 
-      <div class="col-12 col-sm-6 col-lg">
+      <div class="col-12 col-sm-6 col-lg" id="paginas">
         <a
           class="footer__title"
           data-toggle="collapse"
@@ -133,7 +133,7 @@ const networksWithColors = [
         </div>
       </div>
 
-      <div class="col-12 col-sm-6 col-lg">
+      <div class="col-12 col-sm-6 col-lg" id="categorias">
         <a
           class="footer__title"
           data-toggle="collapse"
@@ -173,7 +173,7 @@ const networksWithColors = [
         </div>
       </div>
 
-      <div class="col-12 col-xl-5 order-lg-first">
+      <div class="col-12 col-xl-5 order-lg-first" id="quem-somos">
         <h2 class="footer__title footer__store">
           <%= footer.description.title || _.settings.name %>
         </h2>
