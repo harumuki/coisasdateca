@@ -39,6 +39,10 @@
       "sort": "sales"
     },
     {
+      "type": "page-title",
+      "title": "Blog Coisas da Teca "
+    },
+    {
       "type": "blog",
       "enabled": true
     }
