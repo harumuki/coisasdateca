@@ -9,5 +9,6 @@
     }
   ],
   "meta_title": "Coisas da Teca no Youtube ",
-  "meta_description": "Coisas da Teca no Youtube "
+  "meta_description": "Coisas da Teca no Youtube ",
+  "body": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/9ufyjo57TJw\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<a href=\"https://www.youtube.com/channel/UCLVo4xgPbiXVimhonzdybsA\" target=\"_blank\" rel=\"noopener\"><button type=\"button\" class=\"btn btn-primary btn-block\"> Inscreva-se </button>"
 }
