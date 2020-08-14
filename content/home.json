@@ -12,6 +12,12 @@
           "img": "/img/uploads/armarinhos.gif",
           "link": "https://coisasdateca.netlify.app/armarinho",
           "mobile_img": "/img/uploads/armarinho-mobile.png"
+        },
+        {
+          "start": "2020-08-14T18:59:21.850Z",
+          "end": "",
+          "img": "/img/uploads/parcele.png",
+          "mobile_img": "/img/uploads/parcele-mobile.png"
         }
       ]
     },
