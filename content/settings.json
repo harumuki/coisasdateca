@@ -1,7 +1,7 @@
 {
   "domain": "coisasdateca.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#a33394",
+  "primary_color": "#242424",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/favicon-coisas-da-teca.png",
   "country_code": "BR",
-  "secondary_color": "#72dafd",
+  "secondary_color": "#632d8f",
   "icon": "/img/uploads/favicon-coisas-da-teca.png",
   "store_id": 1125,
   "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
