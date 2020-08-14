@@ -18,6 +18,12 @@
           "end": "",
           "img": "/img/uploads/parcele.png",
           "mobile_img": "/img/uploads/parcele-mobile.png"
+        },
+        {
+          "start": "2020-08-14T19:11:11.221Z",
+          "end": "",
+          "img": "/img/uploads/prazo-postagem.png",
+          "mobile_img": "/img/uploads/postagem.png"
         }
       ]
     },
