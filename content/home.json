@@ -7,10 +7,11 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-08-14T18:07:33.744Z",
+          "start": "2020-08-14T18:19:05.211Z",
           "end": "",
           "img": "/img/uploads/armarinhos.gif",
-          "link": "https://coisasdateca.netlify.app/armarinho"
+          "link": "https://coisasdateca.netlify.app/armarinho",
+          "mobile_img": "/img/uploads/armarinho-mobile.png"
         }
       ]
     },
