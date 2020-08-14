@@ -13,7 +13,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": "Confira as Ofertas Especiais ",
     "link": "/pages/promocoes-frete"
   }
