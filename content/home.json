@@ -46,6 +46,20 @@
       "title": "Confira os Lançamentos "
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/busqueportemas.png"
+        },
+        {
+          "img": "/img/uploads/banner-youtube.png"
+        },
+        {
+          "img": "/img/uploads/kit-tecidos1.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "title": "Os Queridinhos ",
