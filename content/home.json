@@ -1,30 +1,7 @@
 {
   "meta_title": "Coisas da Teca -Tecidos Nacionais e Produtos de Armarinho para seu Artesanato",
-  "meta_description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas.  Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
+  "meta_description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas.Kits de tecidos, alças e produtos de armarinho para seu artesanato.",
   "sections": [
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-08-11T12:35:58.661Z",
-          "end": "",
-          "img": "/img/uploads/tecidos-coisas-da-teca.jpg",
-          "mobile_img": "/img/uploads/tecidos-coisas-da-teca.jpg",
-          "link": "/tecidos"
-        },
-        {
-          "start": "2020-08-11T13:20:30.558Z",
-          "end": "",
-          "img": "/img/uploads/armarinho1.jpg",
-          "link": "/armarinho"
-        }
-      ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
     {
       "type": "collection-shelf",
       "shuffle": true,
@@ -44,6 +21,10 @@
     },
     {
       "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
       "enabled": true
     }
   ]
