@@ -7,16 +7,12 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Frete com Condições Especiais - Confira ! ",
-        "link": "/pages/promocoes-frete"
-      },
-      {
         "title": "Rastreie seu pedido ",
         "link": "https://rastreamentocorreiosbr.com.br/"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [],
