@@ -43,7 +43,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "news",
-      "title": "♥Os Queridinhos♥"
+      "title": "♥Lançamentos♥"
     },
     {
       "type": "collection-shelf",
@@ -77,7 +77,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
-      "headless": true
+      "headless": false,
+      "title": "♥Os Queridinhos♥"
     },
     {
       "type": "page-title",
