@@ -48,14 +48,16 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "♥Busque Por Temas♥",
+      "title": "",
       "sort": "news",
-      "collection_id": null
+      "collection_id": null,
+      "headless": true
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "banners-grid",
