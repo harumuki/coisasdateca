@@ -53,6 +53,11 @@
       "collection_id": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "sort": "news"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
