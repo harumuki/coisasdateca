@@ -46,6 +46,13 @@
       "title": "♥Os Queridinhos♥"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "title": "♥Busque Por Temas♥",
+      "sort": "news",
+      "collection_id": null
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -62,9 +69,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "title": "♥Busque Por Temas♥",
-      "sort": "news",
-      "collection_id": null
+      "sort": "news"
     },
     {
       "type": "page-title",
