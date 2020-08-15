@@ -28,7 +28,11 @@ if (opt.sort || opt.collection_id) {
     if (opt.sort) {
       search.setSortOrder(opt.sort)
     }
-    await search.fetch()
+    await new Promise((resolve, reject) => {
+      setTimeout(() => {
+        search.fetch().then(resolve).catch(reject)
+      }, 500)
+    })
     items = search.getItems()
   }
 } else {
