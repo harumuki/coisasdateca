@@ -76,7 +76,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "page-title",
