@@ -17,14 +17,6 @@
       "enabled": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "title": "Confira Também Nossos Lançamentos",
-      "headless": true,
-      "collection_id": "5f371660f023684cdbda795a"
-    },
-    {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
     }
