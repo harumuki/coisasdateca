@@ -57,7 +57,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
-      "headless": true
+      "headless": true,
+      "collection_id": "5f4d156c7430f92180ea7c18"
     },
     {
       "type": "banners-grid",
