@@ -13,7 +13,8 @@
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
-      "title": "♥Confira as Novidades da Loja ♥"
+      "title": "♥Confira as Novidades da Loja ♥",
+      "collection_id": "5f4d13187430f92180ea7b7a"
     },
     {
       "type": "info-bar",
