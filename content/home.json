@@ -51,7 +51,7 @@
       "shuffle": true,
       "title": "",
       "sort": "news",
-      "collection_id": null,
+      "collection_id": "5f4d14917430f92180ea7bdc",
       "headless": true
     },
     {
@@ -83,7 +83,8 @@
       "shuffle": true,
       "sort": "news",
       "headless": false,
-      "title": "♥Os Queridinhos♥"
+      "title": "♥Os Queridinhos♥",
+      "collection_id": "5f4d14917430f92180ea7bdc"
     },
     {
       "type": "page-title",
