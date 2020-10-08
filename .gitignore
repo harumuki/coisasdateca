@@ -1,5 +1,7 @@
 # Template vendors and output files
+.bundles.json
 /dist
+/cache
 /.serve
 /template/**/storefront-template
 /template/public/assets/vendor/
