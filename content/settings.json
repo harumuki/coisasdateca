@@ -7,17 +7,17 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo1.png",
+  "logo": "/img/uploads/coisasdateca-logo.png",
   "name": "Coisas da Teca ",
   "short_name": "Coisas da Teca",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon-coisas-da-teca.png",
+  "favicon": "/img/uploads/coisadateca-favicon.png",
   "country_code": "BR",
   "secondary_color": "#632d8f",
-  "icon": "/img/uploads/favicon-coisas-da-teca.png",
+  "icon": "/img/uploads/coisadateca-favicon.png",
   "store_id": 1125,
   "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
-  "large_icon": "/img/uploads/favicon-coisas-da-teca.png"
+  "large_icon": "/img/uploads/coisadateca-favicon.png"
 }
