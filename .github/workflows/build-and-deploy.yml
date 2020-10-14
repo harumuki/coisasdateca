@@ -111,6 +111,7 @@ jobs:
           git config --local user.name 'GitHub Action'
           git add .bundles.json content template
           (git diff-index --quiet HEAD && echo "::set-output name=diff::0") || echo "::set-output name=diff::1"
+          cat .bundles.json
         id: git_diff
 
       - name: Commit local file changes
