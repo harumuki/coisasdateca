@@ -1,0 +1,33 @@
+[build]
+  command = "echo 'E-Com Plus Storefront ISG'"
+  publish = "publish"
+  functions = "functions"
+  NODE_ENV = "10.15.3"
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/ssr?slug=:splat"
+  status = 200
+
+[[plugins]]
+  package = "./plugins/isg"
+
+[[headers]]
+  for = "/storefront.*"
+  [headers.values]
+  	Cache-Control = "public, max-age=600, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/checkout.*"
+  [headers.values]
+  	Cache-Control = "public, max-age=600, s-maxage=60"
+
+[[headers]]
+  for = "/img/*"
+  [headers.values]
+  	Cache-Control = "public, max-age=300, s-maxage=60, must-revalidate"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+  	Cache-Control = "public, max-age=86400, s-maxage=600"
