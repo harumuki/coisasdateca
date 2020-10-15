@@ -71,7 +71,6 @@ jobs:
         id: partial_build
 
       - name: Config Git and check diff
-        continue-on-error: true
         run: |
           git config --local user.email 'action@github.com'
           git config --local user.name 'GitHub Action'
@@ -81,9 +80,15 @@ jobs:
 
       - name: Commit local file changes
         if: steps.git_diff.outputs.diff == 1
-        continue-on-error: true
         run: |
           git commit -m 'chore: update template defaults and bundles data [skip ci]'
+
+      - name: Push changes
+        if: steps.git_diff.outputs.diff == 1
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
 
       - name: Setup output directory to deploy
         run: |
@@ -118,11 +123,3 @@ jobs:
           BRANCH: dist
           FOLDER: .deploy
           CLEAN: true
-
-      - name: Push changes
-        if: steps.git_diff.outputs.diff == 1
-        continue-on-error: true
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
