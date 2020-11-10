@@ -7,23 +7,17 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2020-08-31T19:22:24.774Z",
-          "end": "",
-          "img": "/img/uploads/fretegratis.png",
+          "start": "2020-11-10T23:08:07.926Z",
+          "end": "2020-12-01T03:00:00.000Z",
+          "img": "/img/uploads/slidefrete.jpg",
           "mobile_img": "",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete"
         },
         {
-          "start": "2020-08-31T19:22:11.207Z",
+          "start": "2020-11-10T23:08:57.942Z",
           "end": "",
-          "img": "/img/uploads/armarinhos.gif",
+          "img": "/img/uploads/slidearmarinhos.jpg",
           "link": "https://www.coisasdatecaloja.com.br/armarinho",
-          "mobile_img": ""
-        },
-        {
-          "start": "2020-08-16T00:51:53.050Z",
-          "end": "",
-          "img": "/img/uploads/slides-paypal.png",
           "mobile_img": ""
         }
       ]
