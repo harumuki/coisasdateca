@@ -10,9 +10,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "sales",
+      "sort": "news",
       "title": "Aproveite os Produtos a Pronta Entrega",
-      "collection_id": "5f4d13187430f92180ea7b7a"
+      "collection_id": null
     },
     {
       "type": "info-bar",
