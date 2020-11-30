@@ -62,9 +62,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news",
+      "sort": "sales",
       "headless": false,
-      "title": "♥ Lançamentos do Mês ♥",
+      "title": "♥ Queridinhos ♥",
       "collection_id": null
     },
     {
