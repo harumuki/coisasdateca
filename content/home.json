@@ -7,6 +7,20 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2020-12-03T21:18:30.396Z",
+          "end": "2021-01-06T03:00:00.000Z",
+          "img": "/img/uploads/slidenatal.jpg",
+          "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
+          "alt": "Frete Grátis para Todo Brasil Voltou! Vem aproveitar "
+        },
+        {
+          "start": "2020-12-03T21:20:02.914Z",
+          "end": "2020-12-03T21:20:03.007Z",
+          "img": "/img/uploads/sliderevista.jpg",
+          "link": "https://www.coisasdatecaloja.com.br/tecidos",
+          "alt": "Nas compras acima de R$299 Ganhe 01 Revista Fabricart "
+        },
+        {
           "start": "2020-11-12T03:43:39.119Z",
           "end": "",
           "img": "/img/uploads/slidearmarinhosbf.jpg",
