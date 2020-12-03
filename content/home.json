@@ -7,14 +7,14 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2020-12-03T21:18:30.396Z",
+          "start": "2020-12-03T21:26:08.622Z",
           "end": "2021-01-06T03:00:00.000Z",
           "img": "/img/uploads/slidenatal.jpg",
           "link": "https://www.coisasdatecaloja.com.br/pages/promocoes-frete",
           "alt": "Frete Grátis para Todo Brasil Voltou! Vem aproveitar "
         },
         {
-          "start": "2020-12-03T21:20:02.914Z",
+          "start": "2020-12-03T21:26:04.532Z",
           "end": "2021-01-06T03:00:00.000Z",
           "img": "/img/uploads/sliderevista.jpg",
           "link": "https://www.coisasdatecaloja.com.br/tecidos",
@@ -39,7 +39,7 @@
       "shuffle": true,
       "collection_id": "5fac0b20b2161709fa4ae43d",
       "sort": "news",
-      "title": "♥ Lançamentos   ♥"
+      "title": "♥ Frete Grátis Voltou! Nas Compras acima de R$189 use o Cupom:PRESENTEDENATAL   ♥"
     },
     {
       "type": "collection-shelf",
