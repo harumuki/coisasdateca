@@ -52,9 +52,9 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "sort": "news",
+      "sort": null,
       "headless": true,
-      "collection_id": "5fac0b20b2161709fa4ae43d"
+      "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano"
     },
     {
       "type": "banners-grid",
