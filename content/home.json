@@ -54,7 +54,8 @@
       "shuffle": true,
       "sort": null,
       "headless": true,
-      "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano"
+      "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano",
+      "limit": 4
     },
     {
       "type": "banners-grid",
