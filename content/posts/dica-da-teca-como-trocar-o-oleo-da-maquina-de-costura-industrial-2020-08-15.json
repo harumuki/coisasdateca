@@ -3,8 +3,17 @@
   "title": "Dica da Teca: Como Trocar o Óleo da Máquina de Costura Industrial",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "\n\n## **Dica da Teca: Como Trocar o Óleo da Máquina de Costura Industrial**\n\n##### `Oi gente, tudo bem? Na dica de hoje,vou te mostrar como eu troco o óleo da minha maquina industrial de uma maneira bem fácil! É muito importante cuidar com muito carinho da nossa maquina de costura, pois ela é nosso instrumento de trabalho!`\n\n<!--StartFragment-->\n\n<!--EndFragment-->\n\n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/OWRFiXfHtOk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<a href=\"https://www.youtube.com/channel/UCLVo4xgPbiXVimhonzdybsA\" target=\"_blank\" rel=\"noopener\"><button type=\"button\" class=\"btn btn-primary btn-block\">Inscreva-se</button></a>"
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "description": "Na dica de hoje,vou te mostrar como eu troco o óleo da minha maquina industrial de uma maneira bem fácil! É muito importante cuidar com muito carinho da nossa maquina de costura, pois ela é nosso instrumento de trabalho!",
+      "title": "Como Trocar Óleo de Máquina de Costura Industrial - Dicas da Teca"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -16,10 +25,15 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
-  "description": "Na dica de hoje,vou te mostrar como eu troco o óleo da minha maquina industrial de uma maneira bem fácil!\nÉ muito importante cuidar com muito carinho da nossa maquina de costura, pois ela é nosso instrumento de trabalho!",
+  "description": "",
   "meta_title": "Dica da Teca: Como Trocar o Óleo da Máquina de Costura Industrial ",
   "meta_description": "Dica da Teca: Como Trocar o Óleo da Máquina de Costura Industrial ",
-  "thumbnail": "/img/uploads/como-trocar-o-oleo-da-maquina-de-costura-industria_.png"
+  "thumbnail": "/img/uploads/como-trocar-o-oleo-da-maquina-de-costura-industria_.png",
+  "body": "\n <a href=\"https://www.youtube.com/embed/OWRFiXfHtOk\" target=\"_blank\"> \n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/OWRFiXfHtOk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n\n\n<b><span>Inscreva-se no Canal Coisas da Teca no Youtube, e receba notificações cada vez que postar um vídeo novo! </b> </span></a>\n\n\nNa dica de hoje,vou te mostrar como eu troco o óleo da minha maquina industrial de uma maneira bem fácil! É muito importante cuidar com muito carinho da nossa maquina de costura, pois ela é nosso instrumento de trabalho!\n"
 }
