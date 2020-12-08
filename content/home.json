@@ -48,7 +48,7 @@
       "shuffle": false,
       "limit": 12,
       "page": "",
-      "sort": null,
+      "sort": "news",
       "collection_id": "5f19eb4f14ff772fde81d7fe:categories:Coruja:/tecido-estampa-coruja",
       "title": "♥ Corujinhas ♥",
       "link": "https://www.coisasdatecaloja.com.br/tecido-estampa-coruja"
@@ -58,7 +58,7 @@
       "shuffle": false,
       "limit": "",
       "page": "",
-      "sort": null,
+      "sort": "sales",
       "collection_id": "5f19eb4814ff772fde81d7ee:categories:Busque por Temas:/busque-por-temas",
       "title": "♥ Busque por Temas ♥",
       "link": "https://www.coisasdatecaloja.com.br/busque-por-temas"
@@ -70,7 +70,8 @@
       "page": "",
       "collection_id": "5f4d156c7430f92180ea7c18:collections:Mais Armarinho:/mais-armarinho",
       "link": "https://www.coisasdatecaloja.com.br/armarinho",
-      "title": "♥ Armarinho ♥"
+      "title": "♥ Armarinho ♥",
+      "sort": "views"
     },
     {
       "type": "banners-grid",
