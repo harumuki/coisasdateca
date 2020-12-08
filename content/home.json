@@ -50,7 +50,7 @@
       "page": "",
       "sort": "news",
       "collection_id": "5f19eb4f14ff772fde81d7fe:categories:Coruja:/tecido-estampa-coruja",
-      "title": "♥ Corujinhas ♥",
+      "title": "♥ Coleção Corujinhas ♥",
       "link": "https://www.coisasdatecaloja.com.br/tecido-estampa-coruja"
     },
     {
@@ -103,9 +103,10 @@
       "shuffle": false,
       "limit": "",
       "page": "",
-      "title": "",
+      "title": "♥Especiais do Mês♥",
       "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano",
-      "sort": "views"
+      "sort": "views",
+      "link": "https://www.coisasdatecaloja.com.br/fimdeano"
     },
     {
       "type": "page-title",
