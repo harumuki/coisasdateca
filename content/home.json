@@ -48,14 +48,16 @@
       "shuffle": false,
       "limit": "",
       "page": "",
-      "sort": "news"
+      "sort": null,
+      "collection_id": "5f19eb4f14ff772fde81d7fe:categories:Coruja:/tecido-estampa-coruja"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": "",
       "page": "",
-      "sort": "news"
+      "sort": null,
+      "collection_id": "5f19eb4814ff772fde81d7ee:categories:Busque por Temas:/busque-por-temas"
     },
     {
       "type": "collection-shelf",
