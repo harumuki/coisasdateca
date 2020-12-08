@@ -2,11 +2,28 @@
   "date": "2020-12-07T21:29:00.919Z",
   "title": "DIY - Passo a Passo Necessaire Dupla",
   "thumbnail": "/img/uploads/necessaire-dupla1.png",
-  "description": "DIY - Passo a Passo Necessaire Dupla\n\nOi gente, tudo bem?\nNo vídeo de hoje vamos fazer uma necessaire dupla, super fácil de fazer e que você vai gastar pouco material! \nEla possui dois bolsos, pode ser usada como porta maquiagens, documentos, etc..\n\n\nTodos os tecidos usados nesse passo a passo você encontra aqui na minha loja de tecidos!\n",
+  "description": "\n",
   "body": "## **DIY - Passo a Passo Necessaire Dupla**\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/73t5o9nakqc\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n <a href=\"https://www.youtube.com/watch?v=73t5o9nakqc\" target=\"_blank\"> <b><span>Inscreva-se no Canal Coisas da Teca no Youtube, e receba notificações cada vez que postar um vídeo novo! </b> </span></a>\n\n\n\nOi gente, tudo bem?\nNo vídeo de hoje vamos fazer uma necessaire dupla, super fácil de fazer e que você vai gastar pouco material! \nEla possui dois bolsos, pode ser usada como porta maquiagens, documentos, etc..\n\n\n\n\n\nTodos os tecidos usados nesse passo a passo você encontra aqui na minha loja de tecidos!\n\n<a href=\"https://www.coisasdatecaloja.com.br/search?term=Cole%C3%A7%C3%A3o+Contempor%C3%A2neo+Fabricart\" target=\"_blank\"> <span><b>Compre Aqui </b> </span></a>",
   "meta_title": "Como fazer Necessarie Dupla - Passo a Passo em Vídeo",
   "meta_description": "Como fazer Necessarie Dupla - Passo a Passo em Vídeo. Fácil de fazer e que você vai gastar pouco material!",
   "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "DIY - Passo a Passo Necessaire Dupla",
+      "description": "Aprenda a fazer uma necessaire dupla, super fácil de fazer e que você vai gastar pouco material!  Ela possui dois bolsos, pode ser usada como porta maquiagens, documentos, etc.."
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
     {
       "type": "collection-shelf",
       "shuffle": false,
@@ -14,6 +31,10 @@
       "page": 1,
       "collection_id": "5f19eb5214ff772fde81d805:categories:Floral:/tecido-estampa-floral",
       "sort": "news"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
