@@ -99,6 +99,14 @@
       "collection_id": null
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "title": "",
+      "collection_id": "5fc98acc69274c73fce11f2b:collections:Fim de Ano 2020:/fimdeano"
+    },
+    {
       "type": "page-title",
       "title": "Blog Coisas da Teca "
     },
