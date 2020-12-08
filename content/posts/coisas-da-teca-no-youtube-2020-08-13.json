@@ -1,8 +1,21 @@
 {
   "date": "2020-08-13T11:28:15.119Z",
   "title": "Coisas da Teca no Youtube ",
-  "description": "Vídeos Novos toda Semana : Como fazer bolsas , passo a passo de confecção de necessaries, estojos, carteiras e muito mais. Te espero lá :) ",
+  "description": "",
   "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "description": "Vídeos Novos toda Semana : Como fazer bolsas , passo a passo de confecção de necessaries, estojos, carteiras e muito mais. Te espero lá :) ",
+      "title": "Coisas da Teca no Youtube - Vídeos Tutoriais - Passo a Passo DIY "
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
+    },
     {
       "type": "collection-shelf",
       "shuffle": true,
@@ -12,6 +25,10 @@
     },
     {
       "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     }
   ],
