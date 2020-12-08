@@ -21,10 +21,6 @@
       "enabled": true
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -34,6 +30,10 @@
     },
     {
       "type": "info-bar",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     }
   ]
