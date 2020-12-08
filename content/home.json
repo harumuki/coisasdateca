@@ -40,8 +40,21 @@
       "collection_id": null,
       "sort": "news",
       "title": "♥ Frete Grátis Voltou! Nas Compras acima de R$189 use o Cupom:PRESENTEDENATAL   ♥",
-      "page": 3,
+      "page": "",
       "limit": 12
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "banners-grid",
