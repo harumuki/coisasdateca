@@ -6,20 +6,34 @@
   "meta_description": "Passo a Passo Pano de Prato Semaninha Super Fácil de Fazer! Coisas da Teca",
   "sections": [
     {
-      "type": "custom-content",
-      "markdown": "## Passo a Passo Pano de Prato Semaninha Super Fácil de Fazer!\n\n<!--StartFragment-->\n\nOi gente, tudo bem? No vídeo de hoje vou te ensinar como fazer panos de prato da coleção semaninha de uma maneira super fácil! \n\nTodos os tecidos usados nesse passo a passo você encontra aqui na loja de tecidos!\n\n<!--EndFragment-->\n\n<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/xIMa-PT3gs0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "description": "Passo a Passo Pano de Prato Semaninha Super Fácil de Fazer! Coisas da Teca",
+      "title": "Passo a Passo Pano de Prato Semaninha Super Fácil de Fazer!"
+    },
+    {
+      "type": "blog-post",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "sort": "news",
       "title": "♥Confira as Novidades da Loja ♥",
-      "collection_id": "5f4d13187430f92180ea7b7a"
+      "collection_id": "5f19eb4814ff772fde81d7ee:categories:Busque por Temas:/busque-por-temas"
     },
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ],
-  "description": "Aprenda o Passo a Passo para confeccionar Pano de Prato Semaninha Super Fácil de Fazer!\nNo vídeo de hoje vou te ensinar como fazer panos de prato da coleção semaninha de uma maneira super fácil!\nVem conferir! Aproveite e se inscreva no canal e receba notificações quando lançarmos vídeos novos. :) \n"
+  "description": "",
+  "body": "<iframe width=\"100%\" height=\"600\" src=\"https://www.youtube.com/embed/xIMa-PT3gs0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n <a href=\"https://www.youtube.com/embed/xIMa-PT3gs0\" target=\"_blank\"> <b><span>Inscreva-se no Canal Coisas da Teca no Youtube, e receba notificações cada vez que postar um vídeo novo! </b> </span></a>\n\nNo vídeo de hoje vou te ensinar como fazer panos de prato da coleção semaninha de uma maneira super fácil!\n\nTodos os tecidos usados nesse passo a passo você encontra aqui na minha loja de tecidos!\n\n<a href=\"https://www.coisasdatecaloja.com.br/tecidos\" target=\"_blank\"> <span><b>Compre Aqui </b> </span></a>\n"
 }
