@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.fb052f7a106a58ab66857ca88685c32e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.fba626247616bffef3c1d37d5142651e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.fca10245e6e988780e8fa6e0f4a7d271.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.6dfd671b4423cb03b216eb44d027df82.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.55b9ccef9513961907218ba9fbf9863e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Coisas da Teca ",
+  "short_name": "Coisas da Teca",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Loja Coisas da Teca, tecidos nacionais de diversas estampas. Kits de tecidos , alças e produtos de armarinho para seu artesanato.",
+  "background_color": "#ffffff",
+  "theme_color": "#242424"
+}
